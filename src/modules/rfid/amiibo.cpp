@@ -1,3 +1,4 @@
+#include <Arduino.h>
 /**
  * @file amiibolink.cpp
  * @author Rennan Cockles (https://github.com/rennancockles)
