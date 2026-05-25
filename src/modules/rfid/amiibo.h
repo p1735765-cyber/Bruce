@@ -1,3 +1,4 @@
+#include <Arduino.h>
 /**
  * @file amiibo.h
  * @author Rennan Cockles (https://github.com/rennancockles)
